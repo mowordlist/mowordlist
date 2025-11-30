@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://camo.githubusercontent.com/800c41eb6662c6ceb6dcea462651c7fedbe7fbf7208f1a4f1c0587fcdc2a3358/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f37646630626434323737343734332e353765653566333262643736652e676966" /> 
+
 <!--
 **mowordlist/mowordlist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
